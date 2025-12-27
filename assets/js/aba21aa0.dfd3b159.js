@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkchandan_android_dev=globalThis.webpackChunkchandan_android_dev||[]).push([[5742],{7093(a){a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

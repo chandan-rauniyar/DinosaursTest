@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkchandan_android_dev=globalThis.webpackChunkchandan_android_dev||[]).push([[1903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/DinosaursTest/blog","blogTitle":"Blog","authorsListPath":"/DinosaursTest/blog/authors"}')}}]);
